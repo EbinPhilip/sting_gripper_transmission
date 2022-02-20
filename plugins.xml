@@ -1,0 +1,5 @@
+<library path="lib/libsting_gripper_transmission">
+    <class type="Sting::Gripper_Transmission_Loader" base_class_type="Transmission_Loader_Plugin">
+        <description>Plugin for loading sting gripper transmission</description>
+    </class>
+</library>
